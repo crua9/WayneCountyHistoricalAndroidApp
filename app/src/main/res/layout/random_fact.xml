@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--
+    This page will show a random fact each time the user opens the page.
+    -->
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/imageButton"
+        android:background="#00ffff"
+        android:layout_gravity="center_horizontal" />
+    <!--
+       the background needs to be replace with whatever the fact has. That or it can be hidden if
+       the fact doesn't have a pic
+       -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The fact"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#000000"
+            />
+    </ScrollView>
+
+    <!-- It's possible the facts can come out of the news papers. Just need to make sure credit is
+    given to the right company. (company - date - fact )
+    -->
+
+</LinearLayout>
