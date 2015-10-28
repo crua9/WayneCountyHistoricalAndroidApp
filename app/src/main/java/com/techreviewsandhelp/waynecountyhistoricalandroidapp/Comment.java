@@ -16,7 +16,7 @@ public class Comment {
      *
      * LOOKUP:
      *
-     *
+     *                  How the area was changed or how the area changed famous people or events.
      *
      * PROBLEM:
      *
