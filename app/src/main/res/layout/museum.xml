@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--
+     Not a 100% sure what this page will do.
+
+     Possible things
+
+     Scan QR code, and show info
+     show a map let the person click the number of which thing they want more info on (most likely)
+     show updates (most likely not)
+
+     -->
+
+</LinearLayout>

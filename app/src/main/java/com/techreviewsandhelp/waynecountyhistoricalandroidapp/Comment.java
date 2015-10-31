@@ -20,7 +20,7 @@ public class Comment {
      *
      * PROBLEM:
      *
-     *                  Not sure what the main page is going to look like.
+     *                  Still need info on things to find out what the app is going to do.
      *
      *
      *                  Not sure what the splash screen will look like
